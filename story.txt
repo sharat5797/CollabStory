@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 As dawn broke over the quiet town, John Doe, the seasoned detective, was already up and about. His keen eyes scanned the morning paper, looking for any hints of the mystery that had brought him here.
 
 examining any trace of the conundrum that had drawn him to this place
@@ -9,6 +8,5 @@ As dawn broke over the quiet town, John Doe, the seasoned detective, was already
  edit-paragraph
 
 Despite the mysterious circumstances, John felt a strange sense of excitement. He loved a good challenge.
-=======
-Chapter 2: The Mystery Unfolds...
->>>>>>> 7d3c745 (Add chapter 2 to the story)
+
+Suddenly, a loud bang echoed through the alley, making John jump.
